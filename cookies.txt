@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aiovd.com	TRUE	/	FALSE	1999999999	PHPSESSID	8vn4dtuvt9a6tleamihr19dn95
+aiovd.com	TRUE	/	FALSE	1999999999	pll_language	en
+aiovd.com	TRUE	/	FALSE	1999999999	pvc_visits[0]	1700733047b107
+aiovd.com	TRUE	/	FALSE	1999999999	SameSite	LAX
+
